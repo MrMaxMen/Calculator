@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="calculator">Calculator</string>
+    <string name="yourInputHint">your input</string>
+    <string name="info">this application was created by Maxim Menshchikov as an academic project</string>
+
+</resources>
